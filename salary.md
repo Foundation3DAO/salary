@@ -1,5 +1,6 @@
 ### Current Members
 10xhunter(Developer): 5,000 points/month
+
 cancan(Developer): 5,000 points/month
 
 ### History
@@ -8,6 +9,7 @@ Total: 20,000 points
 2023-05:
 10xhunter: 5,000 points
 cancan: 5,000 points
+
 2023-04:
 10xhunter: 5,000 points
 cancan: 5,000 points
