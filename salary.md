@@ -6,7 +6,15 @@ cancan(Developer): 5,000 points/month
 
 ### History
 
-Total: 60,000 points
+Total: 80,000 points
+
+2023-11:
+10xhunter: 5,000 points
+cancan: 5,000 points
+
+2023-10:
+10xhunter: 5,000 points
+cancan: 5,000 points
 
 2023-09:
 10xhunter: 5,000 points
